@@ -16,9 +16,11 @@ Configure the root of your repository with the following files and directories. 
 * **.eslintignore** - contains the course linter ignore configuration
 * **package.json** - contains npm package config
   * create a `lint` script for running eslint
-  * create a `test` script for running tests
   * create a `start` script for running your server
-* **lib/** - contains module definitions
+* **server.js** - runs your application
+* **lib/** - contains helper modules
+* **model/** - contains resource model(s)
+* **__test__** - contains route tests
 
 ## Feature Tasks
 

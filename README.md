@@ -21,7 +21,7 @@ Configure the root of your repository with the following files and directories. 
 * **server.js** - runs your application
 * **lib/** - contains helper modules
 * **model/** - contains resource model(s)
-* **__test__** - contains route tests
+* **\_\_test\_\_/** - contains route tests
 
 ## Feature Tasks
 

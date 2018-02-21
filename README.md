@@ -17,6 +17,7 @@ Configure the root of your repository with the following files and directories. 
 * **package.json** - contains npm package config
   * create a `lint` script for running eslint
   * create a `start` script for running your server
+  * create a `test` script for running your tests
 * **server.js** - runs your application
 * **lib/** - contains helper modules
 * **model/** - contains resource model(s)
